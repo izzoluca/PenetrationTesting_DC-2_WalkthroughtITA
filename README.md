@@ -45,5 +45,6 @@ MD5: F66A5E3AA422A20A526DD4D1018F599B <br>
 SHA1: 906D1930E008BBA5DBA06BBC2E59B2D6E908BEC5 <br> 
 </p>
 <br>
+<img src="https://github.com/izzoluca/PenetrationTesting_DC-2_WalkthroughtITA/blob/main/Slideshow/game-over-retro.png" alt="GameOver" >
 <br>
 <p> - Izzo Luca : Cybersecurity Student </p>
